@@ -14,6 +14,7 @@
 		19C0D94E23DDA6B400A53E08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19C0D94D23DDA6B400A53E08 /* Preview Assets.xcassets */; };
 		19C0D95123DDA6B400A53E08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19C0D94F23DDA6B400A53E08 /* LaunchScreen.storyboard */; };
 		19C0D95923DDAC9300A53E08 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C0D95823DDAC9300A53E08 /* CircleImage.swift */; };
+		19C0D95B23DDAECC00A53E08 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C0D95A23DDAECC00A53E08 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		19C0D95023DDA6B400A53E08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		19C0D95223DDA6B400A53E08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		19C0D95823DDAC9300A53E08 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		19C0D95A23DDAECC00A53E08 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				19C0D94F23DDA6B400A53E08 /* LaunchScreen.storyboard */,
 				19C0D95223DDA6B400A53E08 /* Info.plist */,
 				19C0D94C23DDA6B400A53E08 /* Preview Content */,
+				19C0D95A23DDAECC00A53E08 /* MapView.swift */,
 			);
 			path = CreatingAndCombiningViews;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				19C0D94523DDA6B300A53E08 /* AppDelegate.swift in Sources */,
 				19C0D95923DDAC9300A53E08 /* CircleImage.swift in Sources */,
+				19C0D95B23DDAECC00A53E08 /* MapView.swift in Sources */,
 				19C0D94723DDA6B300A53E08 /* SceneDelegate.swift in Sources */,
 				19C0D94923DDA6B300A53E08 /* ContentView.swift in Sources */,
 			);
